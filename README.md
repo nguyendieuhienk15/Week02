@@ -7,11 +7,9 @@
 ## XYZ TOURIST ATTRACTION (Android sample project edited)
   - Layout
   - Fragment
-  - Recycler View
-<br/>  
-*FIREBASE NOTIFICATION*
+  - Recycler View 
+## FIREBASE NOTIFICATION
   - Receive notification from Firebase
-<br/>
-*THREAD EXECUTOR*
+## THREAD EXECUTOR
   - Thread executor
   - Thread pool executor
