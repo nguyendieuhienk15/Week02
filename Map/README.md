@@ -1,2 +1,3 @@
 # Map
-Async, Layout, Clustering Marker
+
+- Async task: Get nearby places, using Goolge API. Parse the JSON.
