@@ -5,14 +5,14 @@
   - Write log to debug
   - Intent service (start XYZ tourist attraction)
  <br/>
- # XYZ TOURIST ATTRACTION (Android sample project edited) #
+### XYZ TOURIST ATTRACTION (Android sample project edited)
   - Layout
   - Fragment
   - Recycler View
 <br/>  
-## FIREBASE NOTIFICATION
+#### FIREBASE NOTIFICATION
   - Receive notification from Firebase
 <br/>
-## THREAD EXECUTOR
+##### THREAD EXECUTOR
   - Thread executor
   - Thread pool executor
