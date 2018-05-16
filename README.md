@@ -3,7 +3,7 @@
   - Fragment
   - Async
   - Write log to debug
-  - Intent service (start XYZ tourist attraction) <br/>
+  - Intent service (start XYZ tourist attraction)\
 **XYZ TOURIST ATTRACTION** (Android sample project edited)
   - Layout
   - Fragment
