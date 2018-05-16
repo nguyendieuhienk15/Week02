@@ -5,7 +5,7 @@
   - Write log to debug
   - Intent service (start XYZ tourist attraction)
  <br/>
- ## XYZ TOURIST ATTRACTION (Android sample project edited)
+ # XYZ TOURIST ATTRACTION (Android sample project edited) #
   - Layout
   - Fragment
   - Recycler View
