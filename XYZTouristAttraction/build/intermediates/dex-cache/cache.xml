@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e8db15443b00c5a422ce22ae3fdc9c00/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/percent-26.0.2.aar/0f33cd3fd590a3ded51d6a34e3bfde5c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="318c833b8cf730d656cf305360093ab31b87e733">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/925444393bf14a8c690e2ff16f1d280e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a4f81a342ac6bace97ad1420eb47fc11ab749a03">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/69c0aa7e03cbcfa4dc6e90e6b79c406b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ccee203c393cd86b8f0a77d1877a3510/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e8db15443b00c5a422ce22ae3fdc9c00/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/84f1ba5b4a431fce6d259261d5b58043/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4167ff5b2baf1f566c46bc5a3292eb84/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/4373900370d98756532550ef9b7c436d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/0ce452c099b3da47960561f1d4ae0cca/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac0efadd12f5bfd0b6cf8b4c16f3db7a4d46f302">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/4373900370d98756532550ef9b7c436d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.8.0.aar/69c0aa7e03cbcfa4dc6e90e6b79c406b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/44c6b344590fbe5e64438d164e60c0b8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/4167ff5b2baf1f566c46bc5a3292eb84/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/7e57c85cdd6c97e152a4412af69f2803/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9cdf3c8436e0fd508d87a82568b4c903/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d6eaccce7dec856b5fad2fc522bdfd14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/571b06b463cfe0a92f9169d230217db4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f7e3ff2cb093a99c8dc1ff3d50c176019fa5d7c1">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9cdf3c8436e0fd508d87a82568b4c903/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d6eaccce7dec856b5fad2fc522bdfd14/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/cb1aedae4be494dbcc4d46cd48ef8547/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/cb1aedae4be494dbcc4d46cd48ef8547/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50e0b80ccaf5ad9fe71726cf1a9ded53/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/50e0b80ccaf5ad9fe71726cf1a9ded53/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/e0150737934c03ba4299d98988052bfa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.8.0.aar/e0150737934c03ba4299d98988052bfa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/b1d092438a15c61c1b70806b0fbe354e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/9abbecdf58c76ae162c8f0e38c239622/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/Downloads/XYZTouristAttractions/Shared/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24ae5f1e53b82df6c62e62df91a62ccfa8a8b74b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/9abbecdf58c76ae162c8f0e38c239622/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/Downloads/XYZTouristAttractions/Shared/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24ae5f1e53b82df6c62e62df91a62ccfa8a8b74b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/9c77ddb6005ee4d6d4e0f8f56e3af7c0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/84f1ba5b4a431fce6d259261d5b58043/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/4c8b035c8876dbdb8aa90c09d8a66d08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/47d3159895fd18be83bfea1b2b637b3f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf7ecf1e52a6cf9aac9367c5d5ff72d6d1c78c98">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/f9f4117047929e0bcc36456b207cc843/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/ccee203c393cd86b8f0a77d1877a3510/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/f9f4117047929e0bcc36456b207cc843/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/4c8b035c8876dbdb8aa90c09d8a66d08/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.0.aar/47d3159895fd18be83bfea1b2b637b3f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf7ecf1e52a6cf9aac9367c5d5ff72d6d1c78c98">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/557557ed9d972b91e4a6f7f9896ef166/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/fd27909c968502f0dede75f8379181ab/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="18"
+        optimize="true"
+        revision="27.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Application/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/557557ed9d972b91e4a6f7f9896ef166/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lap10559/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/966e80c64949be8f751e8e05d2d89c61/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="/home/lap10559/Downloads/XYZTouristAttractions/Wearable/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+
+</items>

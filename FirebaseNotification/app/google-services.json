@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "503381540371",
+    "firebase_url": "https://eng-digit-204115.firebaseio.com",
+    "project_id": "eng-digit-204115",
+    "storage_bucket": "eng-digit-204115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503381540371:android:5c7dbdac429904f2",
+        "android_client_info": {
+          "package_name": "com.example.ndh.fcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503381540371-52nhu835b78m0ucjnmad1244eslue0h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhYwmUBkVRKJfMYSt7nfz6UBI9BBrKts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

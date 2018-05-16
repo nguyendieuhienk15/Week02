@@ -1,0 +1,16 @@
+<resources>
+
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="tiny_margin">4dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="fab_margin">-8dp</dimen>
+    <item type="dimen" name="keyline1">@dimen/standard_margin</item>
+    <dimen name="keyline2">72dp</dimen>
+    <item type="dimen" name="keyline3">@dimen/standard_margin</item>
+    <integer name="list_columns">1</integer>
+
+    <dimen name="standard_45">45dp</dimen>
+    <dimen name="spacing_150">150</dimen>
+
+</resources>
